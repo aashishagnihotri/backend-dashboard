@@ -1,0 +1,1500 @@
+Fri May 01 2020:ReferenceError: returnedData is not defined
+    at E:\Practice\My Application\src\model\users.js:58:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri May 01 2020:Error: Could not Delete Data
+    at E:\Practice\My Application\src\model\users.js:62:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri May 01 2020:Error
+    at E:\Practice\My Application\src\model\users.js:62:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri May 01 2020:Error
+    at E:\Practice\My Application\src\model\users.js:62:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri May 01 2020:TypeError: Cannot read property 'email' of undefined
+    at E:\Practice\My Application\src\routes\routing.js:43:29
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Fri May 01 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\routing.js:43:31
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Sat May 02 2020:ReferenceError: movieModel is not defined
+    at Object.userModel.update (E:\Practice\My Application\src\model\users.js:47:5)
+    at E:\Practice\My Application\src\routes\routing.js:43:12
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+Sat May 02 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\routing.js:43:36
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:TypeError: Cannot read property 'email' of undefined
+    at E:\Practice\My Application\src\routes\routing.js:42:29
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Sun May 03 2020:TypeError: userTemplate is not a constructor
+    at E:\Practice\My Application\src\routes\routing.js:42:19
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at param (E:\Practice\My Application\node_modules\express\lib\router\index.js:354:14)
+    at param (E:\Practice\My Application\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:410:3)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sun May 03 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:MongooseError: Callback must be a function, got [object Object]
+    at new MongooseError (E:\Practice\My Application\node_modules\mongoose\lib\error\mongooseError.js:10:11)
+    at Function.Model.$handleCallbackError (E:\Practice\My Application\node_modules\mongoose\lib\model.js:4844:11)
+    at _update (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3771:20)
+    at Function.updateOne (E:\Practice\My Application\node_modules\mongoose\lib\model.js:3720:10)
+    at E:\Practice\My Application\src\model\users.js:33:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:ReferenceError: username is not defined
+    at E:\Practice\My Application\src\routes\routing.js:43:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Mon May 04 2020:Error: Could Not Update
+    at E:\Practice\My Application\src\model\users.js:79:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:ReferenceError: next is not defined
+    at E:\Practice\My Application\src\model\users.js:74:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:ReferenceError: next is not defined
+    at E:\Practice\My Application\src\model\users.js:75:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:TypeError: collection.getCollection is not a function
+    at Object.userModel.updateUser (E:\Practice\My Application\src\model\users.js:65:23)
+    at E:\Practice\My Application\src\routes\userRouting.js:44:12
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+Mon May 04 2020:ReferenceError: next is not defined
+    at E:\Practice\My Application\src\model\users.js:75:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:ReferenceError: next is not defined
+    at E:\Practice\My Application\src\model\users.js:75:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:ReferenceError: emailId is not defined
+    at E:\Practice\My Application\src\model\users.js:68:44
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:TypeError: collection.getCollection is not a function
+    at Object.userModel.updateUser (E:\Practice\My Application\src\model\users.js:65:23)
+    at E:\Practice\My Application\src\routes\userRouting.js:44:12
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+Mon May 04 2020:TypeError: Cannot read property 'getCollection' of undefined
+    at Object.userModel.updateUser (E:\Practice\My Application\src\model\users.js:65:38)
+    at E:\Practice\My Application\src\routes\userRouting.js:44:12
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+Mon May 04 2020:OverwriteModelError: Cannot overwrite `Admin` model once compiled.
+    at new OverwriteModelError (E:\Practice\My Application\node_modules\mongoose\lib\error\overwriteModel.js:20:11)
+    at Mongoose.model (E:\Practice\My Application\node_modules\mongoose\lib\index.js:522:13)
+    at E:\Practice\My Application\src\utilities\connection.js:62:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (E:\Practice\My Application\node_modules\body-parser\lib\types\json.js:89:19)
+    at E:\Practice\My Application\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (E:\Practice\My Application\node_modules\raw-body\index.js:224:16)
+    at done (E:\Practice\My Application\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\Practice\My Application\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:322:22)
+    at endReadableNT (_stream_readable.js:1187:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Mon May 04 2020:SyntaxError: Unexpected string in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (E:\Practice\My Application\node_modules\body-parser\lib\types\json.js:89:19)
+    at E:\Practice\My Application\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (E:\Practice\My Application\node_modules\raw-body\index.js:224:16)
+    at done (E:\Practice\My Application\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\Practice\My Application\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:322:22)
+    at endReadableNT (_stream_readable.js:1187:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Mon May 04 2020:OverwriteModelError: Cannot overwrite `Admin` model once compiled.
+    at new OverwriteModelError (E:\Practice\My Application\node_modules\mongoose\lib\error\overwriteModel.js:20:11)
+    at Mongoose.model (E:\Practice\My Application\node_modules\mongoose\lib\index.js:522:13)
+    at E:\Practice\My Application\src\utilities\connection.js:62:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon May 04 2020:MongoError: E11000 duplicate key error collection: Food_Dashboard.Admin index: email_1 dup key: { email: "admin1@abc.com" }
+    at Function.create (E:\Practice\My Application\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (E:\Practice\My Application\node_modules\mongodb\lib\utils.js:149:22)
+    at E:\Practice\My Application\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at handler (E:\Practice\My Application\node_modules\mongodb\lib\core\sdam\topology.js:913:24)
+    at E:\Practice\My Application\node_modules\mongodb\lib\cmap\connection_pool.js:352:13
+    at handleOperationResult (E:\Practice\My Application\node_modules\mongodb\lib\core\sdam\server.js:489:5)
+    at MessageStream.messageHandler (E:\Practice\My Application\node_modules\mongodb\lib\cmap\connection.js:270:5)
+    at MessageStream.emit (events.js:310:20)
+    at processIncomingData (E:\Practice\My Application\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (E:\Practice\My Application\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at doWrite (_stream_writable.js:442:12)
+    at writeOrBuffer (_stream_writable.js:426:5)
+    at MessageStream.Writable.write (_stream_writable.js:317:11)
+    at Socket.ondata (_stream_readable.js:695:22)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:19:37
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 07 2020:ReferenceError: collection is not defined
+    at Object.userModel.getUser (E:\Practice\My Application\src\model\users.js:24:1)
+    at Object.service.validateLogin (E:\Practice\My Application\src\services\userService.js:9:13)
+    at E:\Practice\My Application\src\routes\userRouting.js:18:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+Thu May 07 2020:ReferenceError: collection is not defined
+    at Object.userModel.validateLogin (E:\Practice\My Application\src\model\users.js:32:5)
+    at Object.service.validateLogin (E:\Practice\My Application\src\services\userService.js:9:13)
+    at E:\Practice\My Application\src\routes\userRouting.js:18:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+Thu May 07 2020:TypeError: collection.getCollection is not a function
+    at Object.userModel.validateLogin (E:\Practice\My Application\src\model\users.js:32:23)
+    at Object.service.validateLogin (E:\Practice\My Application\src\services\userService.js:9:13)
+    at E:\Practice\My Application\src\routes\userRouting.js:18:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+Thu May 07 2020:TypeError: Collection.getCollection is not a function
+    at Object.userModel.validateLogin (E:\Practice\My Application\src\model\users.js:32:23)
+    at Object.service.validateLogin (E:\Practice\My Application\src\services\userService.js:9:13)
+    at E:\Practice\My Application\src\routes\userRouting.js:18:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\userRouting.js:18:40
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\userRouting.js:18:40
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\userRouting.js:18:40
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\userRouting.js:18:40
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\userRouting.js:18:40
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 07 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\userRouting.js:18:40
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:43
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:43
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 13 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:112:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:112:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at Object.service.getMultipleDish (E:\Practice\My Application\src\services\restService.js:41:47)
+    at E:\Practice\My Application\src\routes\restRouting.js:113:20
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at Object.service.getMultipleDish (E:\Practice\My Application\src\services\restService.js:41:47)
+    at E:\Practice\My Application\src\routes\restRouting.js:113:20
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:113:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:113:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:113:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:113:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: service.getMultipleDish(...).then is not a function
+    at E:\Practice\My Application\src\routes\restRouting.js:113:45
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Thu May 14 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:113:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:ReferenceError: dishes is not defined
+    at E:\Practice\My Application\src\routes\restRouting.js:123:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:ReferenceError: dishes is not defined
+    at E:\Practice\My Application\src\routes\restRouting.js:123:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:ReferenceError: dishes is not defined
+    at E:\Practice\My Application\src\routes\restRouting.js:123:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:ReferenceError: dishes is not defined
+    at E:\Practice\My Application\src\routes\restRouting.js:123:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:ReferenceError: dishes is not defined
+    at E:\Practice\My Application\src\routes\restRouting.js:123:17
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:125:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Tue May 19 2020:TypeError: Cannot read property 'then' of undefined
+    at E:\Practice\My Application\src\routes\restRouting.js:125:44
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at RequestLogger (E:\Practice\My Application\src\utilities\requestLogger.js:13:1)
+Wed May 20 2020:ReferenceError: email is not defined
+    at Object.cartModel.add (E:\Practice\My Application\src\model\cart.js:20:17)
+    at Object.service.add (E:\Practice\My Application\src\services\cartService.js:17:19)
+    at E:\Practice\My Application\src\routes\cartRouting.js:22:13
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\Practice\My Application\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\Practice\My Application\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (E:\Practice\My Application\node_modules\express\lib\router\index.js:174:3)
+    at router (E:\Practice\My Application\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Practice\My Application\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Practice\My Application\node_modules\express\lib\router\index.js:317:13)
+    at E:\Practice\My Application\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\Practice\My Application\node_modules\express\lib\router\index.js:335:12)
